@@ -1,0 +1,15 @@
+<html>
+<body>
+  <div id="container">
+    <video id="localVideo" autoplay muted></video>
+    <video id="remoteVideo" autoplay></video>
+
+    <div>
+      <button id="startButton" onclick="start()">Start</button>
+      <button id="callButton" onclick="call()">Call</button>
+      <button id="hangupButton" onclick="hangup()">Hang Up</button>
+    </div>
+  </div>
+  <script src="/socket.io/socket.io.js"></script>
+  <script src='js/main.js'></script>
+</html>
