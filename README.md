@@ -8,7 +8,7 @@ npm install
 
 node index.js
 
-Open http://localhost:8080/ in the browser tab.
+Then open this link http://localhost:8080/ in the browser tab.
 
 Supports only two participants in the call.
 Press start button for getting the media and call button to the place the call.
