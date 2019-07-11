@@ -5,6 +5,7 @@ Very basic webRTC demo app.
 To Run
 
 npm install
+
 node index.js
 
 Open http://localhost:8080/ in the browser tab.
